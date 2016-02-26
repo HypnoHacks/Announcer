@@ -1,8 +1,10 @@
 {
   "prefix" : "  ",
   "messages" : [
-    "&fPlease report all exploits and bugs to a staff member",
-    "&fYou can purchase ranks from our store @ &ahttp://bebcraftstore.buycraft.net",
-    "&fno emme"
+    "&fPlease report all exploits and bugs to a staff member.",
+    "&fPurchase ranks from our store @ &ahttp://bebcraftstore.buycraft.net",
+    "&fWant to test hacks with &bNoCheatPlus&f, do &a/warp TestNCP&f.",
+    "&fStaff ranks are earned, not applied for. Remember that.",
+    "&fWe are currently running &bNoCheatPlus &fbuild &a930&f.",
   ]
 }
